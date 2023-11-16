@@ -1,0 +1,14 @@
+table,th,td{
+	 width:30%;
+	 border:1px solid;
+         background-color:cyan;
+	 text-align:center;
+	 font-size:20px;
+}
+tbody>:nth-child(2){
+	text-align:left
+}
+
+tbody>:nth-child(1){
+	font-size:40px;
+}
